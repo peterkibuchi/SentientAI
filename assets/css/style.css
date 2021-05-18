@@ -332,7 +332,6 @@ footer .contact ul li a:hover {
     footer {
         flex-flow: column-reverse wrap;
         padding: 50px 30px;
-
     }
 
     footer .copyright {
