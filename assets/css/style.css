@@ -317,11 +317,11 @@ footer .contact ul li a:hover {
     }
 
     #mission div h1 {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     
     #mission div h2 {
-        font-size: 1.25rem;
+        font-size: 1rem;
     }
 
     .card {
@@ -331,6 +331,8 @@ footer .contact ul li a:hover {
 
     footer {
         flex-flow: column-reverse wrap;
+        padding: 50px 30px;
+
     }
 
     footer .copyright {
