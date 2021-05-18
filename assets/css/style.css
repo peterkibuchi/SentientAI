@@ -81,7 +81,7 @@ section h2 {
     padding: 0 30px;
     display: flex;
     flex-direction: column;
-    background-image: url('/assets/img/community-hero.jpg');
+    background-image: url('./assets/img/community-hero.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
