@@ -16,7 +16,7 @@
 - This is a challenge project on Codecademy's [Full Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/).
 - The challenge is to create (or recreate) a company (fictional or existing) home page of one's choice from scratch.
 - I dream of someday creating an artificial intelligence company (and going on to create safe Artificial Super Intelligence), so I decided to create a simple home page for it.
-- By taking on this project, I solidified my understanding of *Responsive Web Design* principles and *Design for Developers* in general.
+- By taking on this project, I further solidified my understanding of *Responsive Web Design* principles and *Design for Developers* in general.
 - I had plenty of fun as well.
 
 
@@ -34,8 +34,8 @@ To do:
 
 
 ## Acknowledgements
-- I borrowed some ideas from [OpenAI](https://www.openai.com/).
-- I borrowed some ideas from [DigitalOcean](https://www.digitalocean.com) as well - most notably the DigitalOcean blue and the banner image.
+- I took some inspiration from [OpenAI](https://www.openai.com/).
+- I borrowed some ideas from [DigitalOcean](https://www.digitalocean.com) as well, most notably the DigitalOcean blue and the banner image.
 - I also followed [Tania Rascia](https://www.taniarascia.com/)'s tutorial on [*Design for Developers*](https://www.taniarascia.com/design-for-developers/). I learnt plenty, and my design has greatly improved as a result.
 - Many thanks to all of them, for inspiring and helping me create what I believe to be the most beautiful thing I have created yet.
 
