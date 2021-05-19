@@ -16,8 +16,7 @@
 - This is a challenge project on Codecademy's [Full Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/).
 - The challenge is to create (or recreate) a company (fictional or existing) home page of one's choice from scratch.
 - I dream of someday creating an artificial intelligence company (and going on to create safe Artificial Super Intelligence), so I decided to create a simple home page for it.
-- By taking on this project, I further solidified my understanding of *Responsive Web Design* principles and *Design for Developers* in general.
-- I had plenty of fun as well.
+- By taking on this project, I further solidified my understanding of *Responsive Web Design* principles and *Design for Developers* in general. I had plenty of fun as well.
 
 
 ## Technologies Used
