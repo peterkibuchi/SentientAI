@@ -39,7 +39,7 @@ To do:
 - Many thanks to all of them, for inspiring and helping me create what I believe to be the most beautiful thing I have created yet.
 
 
-## Contact
+## Author
 Created by [Peter Kibuchi](https://www.peterkibuchi.com/).
 
 
