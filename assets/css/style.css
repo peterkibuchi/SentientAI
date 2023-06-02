@@ -339,7 +339,7 @@ footer .contact ul li a:hover {
     }
 
     footer .contact ul {
-        justify-content: flex-end;
+        align-items: flex-end;
         margin-bottom: 1rem;
     }
 
